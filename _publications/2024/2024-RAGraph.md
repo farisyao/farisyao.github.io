@@ -13,7 +13,6 @@ abstract: >-
 cover:          /assets/images/covers/vldb-ragraph.png
 authors:
   - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
-  - Feng Yao
   - Qian Tao
   - Wenyuan Yu
   - Yanfeng Zhang

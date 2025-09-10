@@ -12,10 +12,9 @@ abstract: >-
   In this paper, we propose a graph reordering method, GoGraph, which can construct a well-formed vertex processing order effectively reducing the number of iteration rounds and, consequently, accelerating iterative computation. Before delving into GoGraph, a metric function is introduced to quantify the efficiency of vertex processing order in accelerating iterative computation. This metric reflects the quality of the processing order by counting the number of edges whose source precedes the destination. GoGraph employs a divide-and-conquer mindset to establish the vertex processing order by maximizing the value of the metric function. 
 cover:          /assets/images/covers/icde-gograph.png
 authors:
-  - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
   - Yijie Zhou
   - Shufeng Gong
-  - Feng Yao
+  - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
   - Hanzhang Chen
   - Song Yu
   - Pengxi Liu

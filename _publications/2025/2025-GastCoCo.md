@@ -12,13 +12,12 @@ abstract: >-
   Existing disaggregated databases simply couple CC either with the execution layer or the storage layer, which limits the performance and elasticity of these systems. This paper proposes Concurrency Control as a Service (CCaaS), which decouples CC from databases, building an execution-CC-storage three-layer decoupled database, allowing independent scaling and upgrades for improved elasticity, resource utilization, and development agility.
 cover:          /assets/images/covers/vldb-gastcoco.png
 authors:
-  - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
   - Hongfu Li
   - Qian Tao
   - Song Yu
   - Shufeng Gong
   - Yanfeng Zhang
-  - Feng Yao
+  - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
   - Wenyuan Yu
   - Ge Yu
   - Jingren Zhou
