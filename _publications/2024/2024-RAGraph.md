@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   In this paper, we propose RAGraph, a Region-Aware framework for geo-distributed graph processing. At the core of RAGraph, we design a region-aware graph processing framework that allows advancing inefficient global updates locally and enables sensible coordination-free message interactions. RAGraph also contains an adaptive hierarchical message interaction engine to switch interaction modes adaptively based on network heterogeneity and fluctuation, and a discrepancy-aware message filtering strategy to filter important messages. 
-cover:          /assets/images/covers/sigmod-geogauss.png
+cover:          /assets/images/covers/vldb-ragraph.png
 authors:
   - "<b style='font-weight:900;color:#000;'>Feng Yao</b>"
   - Feng Yao
