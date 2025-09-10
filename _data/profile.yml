@@ -29,10 +29,12 @@ short_bio: >-
     Prof. <a href="https://neuzhangyf.github.io" target="_blank">Yanfeng Zhang</a>.
   </p>
   <p>
-    I’m interested in building distributed database systems, cloud-native databases, transaction processing, and new hardware for databases.
+    I’m interested in building distributed and parallel graph processing systems, heterogeneous graph data management. I am also interested in vector database.
+
+
   </p>
 
-portrait_url: /assets/images/photos/zwx.jpg
+portrait_url: /assets/images/photos/yaof.jpg
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -40,15 +42,15 @@ education:
 - name: Northeastern University
   logo: /assets/images/badges/neu.jpg
   position: Ph.D. Student
-  date: Sep. 2023 - present
+  date: Sep. 2021 - present
 - name: Northeastern University
   logo: /assets/images/badges/neu.jpg
   position: M.S. in Computer Science
-  date: Sep. 2020 - Jul. 2023
-- name: Harbin University of Science and Technology
-  logo: /assets/images/badges/hrbust.png
+  date: Sep. 2018 - Jul. 2021
+- name: Changchun University of Science and Technology
+  logo: /assets/images/badges/CUST.png
   position: B.S. in Computer Science
-  date: Sep. 2016 - Jul. 2020
+  date: Sep. 2014 - Jul. 2018
 
 # experience:
 # - name: Peking University
@@ -57,23 +59,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Liaoning Province Outstanding Master's Thesis Award
+- name: Southern Manganese Industries Scholarship
+  date: 2024
+- name: Huawei Scholarship
   date: 2023
-- name: Northeastern University Outstanding Master's Thesis Award
-  date: 2023
-- name: Lan Qiao Cup, Heilongjiang Division, First Prize
-  date: 2019
-- name: ACM International Collegiate Programming Contest (Qingdao), Silver Medal
-  date: 2017
 
 experience:
-- name: CCF-Huawei Database Innovation Research Program
-  detail: Coordination-Free Distributed Transaction Processing Mechanism for Cross-Region High Availability (CCF-HuaweiDBIR2020009B)
-  award: Outstanding Project of the Year
-  date: Sep. 2020 - Apr. 2023
-- name: CCF-Huawei Huyanglin Fund
-  detail: Multi-Master Cloud Native Database Based on Coordination-Free Strong Consistency Technology (CCF-HuaweiDBIR2022003B)
-  award: Outstanding Project of the Year
-  date: Sep. 2022 - Jul. 2024
-- name: Huawei Database System Scalability Research
-  date: Sep. 2024 - present
+- name: Tongyi Lab
+  logo: /assets/images/badges/alibaba.png
+  position: Research Intern
+  date: Mar. 2022 - Mar. 2024
