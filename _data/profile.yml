@@ -1,6 +1,6 @@
-primary_name: "Weixing Zhou"
-secondary_name: "周慰星"
-navbar_name: "Weixing Zhou"
+primary_name: "Feng Yao"
+secondary_name: "姚烽"
+navbar_name: "Feng Yao"
 
 positions:
 - logo: /assets/images/badges/neu.jpg  # Logo is optional
@@ -9,11 +9,11 @@ positions:
 
 
 email:
-  - zhouwx0219@foxmail.com
-  - zhouwx@stumail.neu.edu.cn
+  - farisyao@163.com
+  - yaofeng@stumail.neu.edu.cn
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: zhouwx0219
+github: farisyao
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
